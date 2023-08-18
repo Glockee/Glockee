@@ -2,14 +2,14 @@
 #### Sou estudante da Alura.
 ![Sou estudante da Alura.](www.bannerreadme.com.br)
 
-Estou querendo mudar de profissão e é exatamente a area de tecnologia no qual sempre fui apaixonado que escolhi. Comecei a estudar na alura e estou ainda em formação, comecei com programação para poder entender como funciona e a logica por trás para aprender mais profundamente data science e machine learning.
+Estou querendo mudar de profissão e é exatamente a área de tecnologia no qual sempre fui apaixonado que escolhi. Comecei a estudar na Alura e estou ainda em formação, comecei com programação para poder entender como funciona e a lógica por trás para aprender mais profundamente Data Science e Machine Learning.
 
 Habilidades: Adquirindo ....
 
 - 🔭 Atualmente estou trabalhando nesta pagina. 
 - 🌱 Eu estou aprendendo programação. 
 - 👯 Estou procurando colaborar em qualquer projeto. 
-- 🤔 Estou procurando ajuda em projetos iniciais e ganho de experiencia. 
+- 🤔 Estou procurando ajuda em projetos iniciais e ganho de experiência. 
 - 💬 Me pergunte sobre qualquer coisa. 
 - 📫 Como me achar: GitHub 
 - 😄 Pronomio: n/a 
